@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="183" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif"  />
+<img align="right" height="183" src="https://miro.medium.com/max/1000/1*Q7FRcfOGAAIJoADz0KvTIQ.gif"  />
 
 ###
 
