@@ -51,14 +51,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/11134802475">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11134802475&unique={true|1|on|yes}" alt="Spotify recently played"  />
